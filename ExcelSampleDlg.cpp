@@ -1,4 +1,11 @@
-﻿
+/*************************************************************************
+	> File Name:    ExcelSampleDlg.cpp
+	> Author:       jiangyubin
+	> Mail:         jiangyubin818@gmail.com 
+    > QQ:           1327388399
+	> Created Time: Sun 06 Nov 2023 10:10:50 PM PST
+ ************************************************************************/
+
 // ExcelSampleDlg.cpp: 实现文件
 //
 
